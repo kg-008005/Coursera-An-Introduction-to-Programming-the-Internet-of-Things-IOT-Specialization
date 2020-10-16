@@ -18,3 +18,5 @@ Courses in the Specialization
 
 
 # DO NOT FORK THIS REPOSITORY
+
+IOT can be integrated with ML to make meaningful deployable ML models for the trending technological problems.
